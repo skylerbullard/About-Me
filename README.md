@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @xdubstech
 - 👀 I’m interested in data science
 - 🌱 I’m currently learning machine learning
-- 💞️ I’m looking to collaborate on data wrangling
+- 💞️ I’m looking to collaborate on business intelligence
 - 📫 How to reach me ...
 
 <!---
